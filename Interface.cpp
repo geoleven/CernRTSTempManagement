@@ -16,7 +16,7 @@
 #include <map>
 
 
-#define SLEEPTIMER 1
+#define SLEEPTIMER 60
 #define DEBUG false
 
 
